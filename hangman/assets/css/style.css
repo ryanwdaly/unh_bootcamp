@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+body {
+    background: url(../images/background.jpg);
+    background-size: cover;
+}
+#title {
+    font-family: 'Press Start 2P';
+    color: gold;
+   
+    float: none; 
+    margin: 0 auto;
+    font-size: 80px;
+}
+#progress-display {
+    font-family: 'Press Start 2P';
+    float: none; 
+    margin: 0 auto;
+    font-size: 60px;
+    letter-spacing: 15px;
+    color: white;
+}
+#guesses-left {
+    font-family: 'Press Start 2P';
+    margin-left: 25px;
+    color: white;
+    
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Black+And+White+Picture');
+@import url('https://fonts.googleapis.com/css?family=Unlock');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Unlock');
+
+p.slj {
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 20px;
+    font-weight: 1px;
+    line-height: 15px;
+    letter-spacing: 1px;
+}
+
+p.pirate {
+    font-family: 'Unlock', cursive;
+}
+
+p:hover {
+    font-size: 25px
+}
+
+a.pseudo_ex {
+    font-size: 20px;
+    font-family: 'Bungee', cursive;
+}
+a.pseudo_ex:hover {
+    font-size:40px;
+}
